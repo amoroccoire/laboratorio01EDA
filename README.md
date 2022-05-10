@@ -34,4 +34,53 @@
 	</div>
 </div>
 
+<table>
+        <tbody>
+            <tr>
+                <th colspan="6">INFORMACIÓN BÁSICA</th>
+            </tr>
+        </tbody>
 
+        <tbody>
+            <tr>
+                <td>ASIGNATURA:</td>
+                <td colspan="5">Estructuras de datos y Algoritmos</td>
+		    </tr>
+		    <tr>
+			    <td>TÍTULO DE LA PRÁCTICA:</td>
+			    <td colspan="5">Revisión de elementos de programación (Parte I)</td>
+		    </tr>
+        <tr>
+			    <td>NÚMERO DE PRÁCTICA:</td>
+			    <td>01</td>
+			    <td>AÑO LECTIVO:</td>
+			    <td>2022 A</td>
+			    <td>NRO. SEMESTRE:</td>
+			    <td>III</td>
+		    </tr>
+		    <tr>
+			    <td>FECHA DE PRESENTACIÓN:</td>
+			    <td>10/05/2022</td>
+			    <td>HORA DE PRESENTACIÓN:</td>
+			    <td colspan="3">11:55</td>
+		    </tr>
+		    <tr>
+			    <td colspan="3">INTEGRANTE(s):
+				    <ul dir="auto">
+                    ::marker
+					    <li>Moroccoire/Pacompia, Anthony Marcos - amoroccoire@unsa.edu.pe</li>
+				    </ul>
+			    </td>
+			    <td>NOTA:</td>
+			    <td colspan="2"></td>
+		    </tr>
+
+<tr>
+			    <td colspan="6">DOCENTE(s):
+				    <ul dir="auto">
+					    <li>Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</li>
+				    </ul>
+			    </td>
+		    </tr>
+	    </tbody>
+    </table>
