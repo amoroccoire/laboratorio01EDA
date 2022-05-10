@@ -17,17 +17,17 @@
         </tbody>
 
         <tbody>
-            <tr>
+            <tr align="center">
                 <td colspan="3"><span>Formato</span>: Guía de Práctica de Laboratorio / talleres / Centros de Simulacion</td>
             </tr>
-            <tr>
+            <tr align="center">
                 <td><span>Aprobación</span>: 2022/03/01</td>
                 <td><span>Código</span>: GUIA-PRLB-001</td>
                 <td><span>Página</span>: 1</td>
             </tr>
         </tbody>
 	</table>
-<div>
+</div>
 
 <div dir="auto">
 	<div dir="auto" align="center">
