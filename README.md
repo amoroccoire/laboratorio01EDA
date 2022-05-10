@@ -100,9 +100,62 @@
                     <ol>
                         <li>
                             Se crea un nuevo repositorio<br>
-                            <img src="images/captura1.jpg" alt="Repositorio">
+                            <img src="images/captura1.png" alt="Repositorio">
+                        </li>
+                        <li>
+                            Se hizo el ejercicio HolaMundo.java<br>
+                            <img src="images/captura2.png" alt="commits">
+                        </li>
+                            
+                        <li>
+                            Con los comandos presentados en el repositorio,
+                            se subio el trabajo
                         </li>
                     </ol>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    II. SOLUCION DEL CUESTIONARIO<br>
+                    Git es una herramienta muy util cuando se trata de trabajar
+                    colaborativamente y en la presentacion de de trabajos
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    III. CONCLUSIONES
+                    <ul dir="auto">
+                        <li>GitHub es una herramienta util para el aprendizaje</li>
+                        <li>El trabajo colaborativo es manejable</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <th>RETROALIMENTACIÓN GENERAL</th>
+            </tr>
+        </tbody>
+        <tbody>
+            <tr></tr>
+        </tbody>
+        <tbody>
+            <tr>
+                REFERENCIAS Y BIBLIOGRAFIA
+            </tr>
+        </tbody>
+        <tbody>
+            <tr>
+                <td>
+                    I. BIBLIOGRAFIA
+                    <ul dir="auto">
+                        <li>
+                            <a href="https://git-scm.com/book/es/v2" rel="nofollow">https://git-scm.com/book/es/v2</a>
+                        </li>
+                        <li>
+                            <a href="https://jsitor.com/" rel="nofollow">https://jsitor.com/</a>
+                        </li>
+                    </ul>
                 </td>
             </tr>
         </tbody>
