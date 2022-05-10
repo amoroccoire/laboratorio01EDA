@@ -135,7 +135,7 @@
         </tbody>
         <tbody>
             <tr>
-                REFERENCIAS Y BIBLIOGRAFIA
+                <th>REFERENCIAS Y BIBLIOGRAFIA</th>
             </tr>
         </tbody>
         <tbody>
