@@ -65,7 +65,6 @@
 		    <tr>
 			    <td colspan="3">INTEGRANTE(s):
 				    <ul dir="auto">
-                    ::marker
 					    <li>Moroccoire/Pacompia, Anthony Marcos - amoroccoire@unsa.edu.pe</li>
 				    </ul>
 			    </td>
@@ -131,7 +130,9 @@
             </tr>
         </tbody>
         <tbody>
-            <tr></tr>
+            <tr>
+                <th><br><br><br></th>
+            </tr>
         </tbody>
         <tbody>
             <tr>
