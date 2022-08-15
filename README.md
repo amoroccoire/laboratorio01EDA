@@ -117,7 +117,7 @@
             <tr>
                 <td>
                     III. CONCLUSIONES
-                    <ul>
+                    <ul dir="auto">
                         <li>GitHub es una herramienta util para el aprendizaje</li>
                         <li>El trabajo colaborativo es manejable</li>
                     </ul>
