@@ -106,14 +106,18 @@
                         </li>
                     </ol>
                 </td>
-		<td>
-		    SEGUNDO PROBLEMA<br>
-		    <ol>
-			    <li>
-				se crea repo
-			    </li>
-		    </ol>
-		</td>
+            </tr>
+	    <tr>
+                <td>
+                    2Pronelam . SOLUCION DE EJERCICIOS/PROBLEMAS
+                    <br>
+                    <ol>
+                        <li>
+                            Se crea un nuevo repositorio<br>
+                            <img src="images/captura1.png" alt="Repositorio">
+                        </li>
+                    </ol>
+                </td>
             </tr>
             <tr>
                 <td>
