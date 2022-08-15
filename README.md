@@ -107,18 +107,6 @@
                     </ol>
                 </td>
             </tr>
-	    <tr>
-                <td>
-                    2Pronelam . SOLUCION DE EJERCICIOS/PROBLEMAS
-                    <br>
-                    <ol>
-                        <li>
-                            Se crea un nuevo repositorio<br>
-                            <img src="images/captura1.png" alt="Repositorio">
-                        </li>
-                    </ol>
-                </td>
-            </tr>
             <tr>
                 <td>
                     II. SOLUCION DEL CUESTIONARIO<br>
@@ -129,7 +117,7 @@
             <tr>
                 <td>
                     III. CONCLUSIONES
-                    <ul dir="auto">
+                    <ul>
                         <li>GitHub es una herramienta util para el aprendizaje</li>
                         <li>El trabajo colaborativo es manejable</li>
                     </ul>
