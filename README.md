@@ -106,6 +106,14 @@
                         </li>
                     </ol>
                 </td>
+		<td>
+		    SEGUNDO PROBLEMA<br>
+		    <ol>
+			    <li>
+				se crea repo
+			    </li>
+		    </ol>
+		</td>
             </tr>
             <tr>
                 <td>
